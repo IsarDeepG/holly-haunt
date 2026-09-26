@@ -1,2 +1,2 @@
-# holly-haunt
-Holly Haunt hidden-object game. Open on phone.
+# Holly Haunt
+Open https://isardeepg.github.io/holly-haunt/
